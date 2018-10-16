@@ -1,0 +1,77 @@
+html{
+	background-color: #c6d9ec;
+}
+body{
+	margin-left: 7%;
+	margin-right: 7%;
+	
+	font: normal 16px Verdana, Geneva, sans-serif;
+	
+	line-height: 1.6em;
+
+}
+
+.Name{
+	background-color: #fff;
+	
+	height: 173px;
+	
+	border-radius: 15px;
+
+}
+.Name h1{
+	color: #2d5986;
+	
+	font-size: 55px;
+	font-family: Trebuchet MS, Verdana, sans-serif;
+
+	margin-top: 25px;
+	margin-bottom: 15px;
+	
+	padding-top: 25px;
+	padding-left: 225px;
+	
+	
+}
+.Name p{
+	color: #2d5986;
+	
+	font-size: 20px;
+	
+	padding-left: 233px;
+}
+.Image{
+	position:absolute;
+	top: 0px;
+	
+	margin-top: 25px;
+	
+	padding-top: 10px;
+	padding-left: 33px;
+	
+	border-radius: 15px;
+
+}
+.NavBar {
+	background-color: #fff;
+	
+	position:absolute;
+	top: 223px;
+	
+	height: 260px;
+	width: 215px;
+	
+	border-radius: 10px;
+}
+.PageName {
+	text-decoration: none;
+	font-size: 20px;
+	font-family: Trebuchet MS, Verdana, sans-serif;
+	
+	color: #2d5986;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
